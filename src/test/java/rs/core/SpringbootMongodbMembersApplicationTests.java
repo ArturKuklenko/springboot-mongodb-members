@@ -11,6 +11,7 @@ public class SpringbootMongodbMembersApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("Just test for commit");
     }
 
 }
